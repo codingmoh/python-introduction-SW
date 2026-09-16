@@ -25,6 +25,10 @@ If you use VS Code instead, install its Python and Jupyter extensions and select
 
 ## Learning path
 
+For a demonstration alongside the slides, open **[Live coding](notebooks/live_coding.ipynb)**. This is one workspace covering all six PDFs, with 46 short coding stops. Each stop shows exactly when to switch from the slides, where to resume, and a mostly blank cell for typing the implementation. A few cells include small sample inputs. Chapter and stop links let you jump directly to a topic; each stop is independent of previous cells.
+
+Save a working copy before the session. The **[matching reference](solutions/live_coding_reference.ipynb)** has the same stop IDs and cell order with completed, tested code. Keep it in a separate tab as a fallback. The live workspace contains no completed implementations or speaker script; its unchanged Run All checks only the starter cells.
+
 | Chapter | Main ideas | Practice |
 | --- | --- | --- |
 | [00 Getting started](notebooks/00_getting_started.ipynb) | Cells, kernels, execution order, errors, reproducible runs | Run, edit, restart |
